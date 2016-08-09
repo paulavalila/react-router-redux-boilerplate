@@ -5,8 +5,10 @@ Original code example (modified in this branch) could be found from https://gith
 
 Dev server, Webpack config and babel presets, eslint configuration (airbnb) included.
 
-run:
+first:
+
   npm install 
+  
   npm start
   
 then: just start coding..!
