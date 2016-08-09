@@ -1,0 +1,41 @@
+{
+  "name": "react-redux-boilerplate",
+  "version": "1.0.0",
+  "description": "Simple boilerplate to start using react and redux, includes webpack dev server and airbnb eslint files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "^6.7.4",
+    "jsx-loader": "^0.13.2",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.2.4",
+    "react-router-redux": "^4.0.2",
+    "redux": "^3.4.0",
+    "redux-logger": "^2.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0.20",
+    "babel-eslint": "^4.1.3",
+    "babel-loader": "^6.0.1",
+    "babel-preset-es2015": "^6.0.15",
+    "babel-preset-react": "^6.0.15",
+    "babel-preset-stage-0": "^6.0.15",
+    "babelify": "^7.2.0",
+    "browserify": "^13.0.0",
+    "copy-webpack-plugin": "^3.0.1",
+    "eslint": "^2.8.0",
+    "eslint-config-airbnb": "^8.0.0",
+    "eslint-plugin-import": "^1.5.0",
+    "eslint-plugin-jsx-a11y": "^1.0.2",
+    "eslint-plugin-react": "^5.0.1",
+    "react-hot-loader": "^1.3.0",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  }
+}
