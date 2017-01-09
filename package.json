@@ -4,7 +4,8 @@
   "description": "Simple boilerplate to start using react and redux, includes webpack dev server and airbnb eslint files",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "webpack --config webpack.prod.config.js --progress",
   },
   "author": "",
   "license": "ISC",
