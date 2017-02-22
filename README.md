@@ -12,6 +12,7 @@ Example of routing and react and redux (store, reducer and action creators).
 * Webpack configuration: css modules, bundle.js files to dist, common font types, babel loaders
 
 Original code example (modified in this branch) could be found from [here](https://github.com/reactjs/react-router-redux/tree/master/examples/basic)
+
 You might also benefit from reading [react](https://facebook.github.io/react/), [redux](http://redux.js.org/) and [webpack](https://webpack.github.io/) documentation ..
 
 
